@@ -1,0 +1,124 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "college": "XYZ University",
+      "image_url": "https://example.com/alice.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "college": "ABC College",
+      "image_url": "https://example.com/bob.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Charlie Brown",
+      "college": "123 College",
+      "image_url": "https://example.com/charlie.jpg"
+    },
+    {
+      "id": 4,
+      "name": "David Williams",
+      "college": "456 University",
+      "image_url": "https://example.com/david.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Eva Davis",
+      "college": "789 College",
+      "image_url": "https://example.com/eva.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Frank Miller",
+      "college": "LMN University",
+      "image_url": "https://example.com/frank.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Grace Taylor",
+      "college": "OPQ College",
+      "image_url": "https://example.com/grace.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Henry Martin",
+      "college": "RST University",
+      "image_url": "https://example.com/henry.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Ivy Anderson",
+      "college": "UVW College",
+      "image_url": "https://example.com/ivy.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Jack Wilson",
+      "college": "XYZ University",
+      "image_url": "https://example.com/jack.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Katie Brown",
+      "college": "ABC College",
+      "image_url": "https://example.com/katie.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Leo Harris",
+      "college": "123 College",
+      "image_url": "https://example.com/leo.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Mia Johnson",
+      "college": "456 University",
+      "image_url": "https://example.com/mia.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Nathan Davis",
+      "college": "789 College",
+      "image_url": "https://example.com/nathan.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Olivia White",
+      "college": "LMN University",
+      "image_url": "https://example.com/olivia.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Paul Miller",
+      "college": "OPQ College",
+      "image_url": "https://example.com/paul.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Quinn Taylor",
+      "college": "RST University",
+      "image_url": "https://example.com/quinn.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Ryan Anderson",
+      "college": "UVW College",
+      "image_url": "https://example.com/ryan.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Sara Wilson",
+      "college": "XYZ University",
+      "image_url": "https://example.com/sara.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Tyler Harris",
+      "college": "ABC College",
+      "image_url": "https://example.com/tyler.jpg"
+    }
+  ]
+}
